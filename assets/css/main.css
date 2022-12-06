@@ -2178,3 +2178,14 @@ section {
 .footer .credits a {
   color: #fff;
 }
+
+div.infografia h2.infografia {
+  text-align: center;
+  font-weight: bolder;
+}
+
+div.infografia img {
+  width: 75%;
+  padding-left: 300px;
+  align-items: center;
+}
